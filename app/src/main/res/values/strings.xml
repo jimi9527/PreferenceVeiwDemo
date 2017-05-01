@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PreferenceVeiwDemo</string>
+
+
+    <string name="key_setting_title">key_setting_title</string>
+    <string name="key_setting_divider">key_setting_divider</string>
+    <string name="key_bind_phone_num">key_bind_phone_num</string>
+    <string name="key_screen_shot_album">key_screen_shot_album</string>
+    <string name="key_screen_shot_sharing_tips">ISPUSH</string>
+    <string name="key_clear_cache">key_clear_cache</string>
+    <string name="key_feedback">key_feedback</string>
+    <string name="key_open_source">key_open_source</string>
+    <string name="key_logout">key_logout</string>
+
+
+    <string name="str_setting_title_account">ACCOUNT</string>
+</resources>
